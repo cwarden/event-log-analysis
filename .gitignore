@@ -1,1 +1,4 @@
 .redo/
+.force/
+*.csv
+EventLogFile/

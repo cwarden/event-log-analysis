@@ -1,2 +1,2 @@
 redo-always
-date +%m%d%H | redo-stamp
+date +%Y%m%d%H%M
